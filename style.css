@@ -6,7 +6,7 @@
     background-repeat: no-repeat; 
     background-position: 100% 50%; 
     background-size: 95%; 
-    font-family: 'Roboto', sans-serif;
+    font-family: system-ui, sans-serif;
     max-height: 100vh; 
     max-width: 100%; 
     font-weight: bold !important; 
@@ -14,7 +14,7 @@
 
 #right {
     background-color: white; 
-    font-family: 'Roboto', sans-serif;
+    font-family: system-ui, sans-serif;
     max-height: 100vh; 
     max-width: 100%; 
 }
