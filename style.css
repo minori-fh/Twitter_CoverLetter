@@ -58,8 +58,7 @@ p {
     transform: translate(-50%,-50%);
     width: 80%; 
     text-align: justify; 
-    font-weight: normal; 
-    margin-top: 5%; 
+    font-weight: normal;  
 }
 
 li {
@@ -143,6 +142,9 @@ hr {
     }
     strong {
         font-size: 18px !important; 
+    }
+    .content-right{
+        margin-top: 5%; 
     }
 }
 
