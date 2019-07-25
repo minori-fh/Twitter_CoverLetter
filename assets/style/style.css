@@ -2,7 +2,7 @@
 #left {
     background-color: orange; 
     align-content: center; 
-    background-image: url("bkgrnd.png");
+    background-image: url("../images/bkgrnd.png");
     background-repeat: no-repeat; 
     background-position: 100% 50%; 
     background-size: 95%; 
