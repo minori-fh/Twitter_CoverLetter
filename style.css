@@ -71,6 +71,10 @@ li {
     cursor: pointer; 
 }
 
+.how {
+    border-bottom: solid white 1px; 
+}
+
 .what {
     margin-left: 2%; 
 }
