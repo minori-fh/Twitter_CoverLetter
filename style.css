@@ -68,6 +68,7 @@ li {
 .how, .what, .why {
     font-weight: bold !important;
     margin-bottom: 3%;  
+    cursor: pointer; 
 }
 
 .what {
