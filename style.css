@@ -74,10 +74,10 @@ li {
 hr {
     margin-left: 0; 
 }
-/* 
+
 .how {
-    border-bottom: solid white 1px; 
-} */
+    color: black; 
+}
 
 .what {
     margin-left: 2%; 
